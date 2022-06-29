@@ -1,6 +1,6 @@
 <p>
     <h1 align="center">
-        <a href="./docs/bingwalls/home">
+        <a href="./res/BingWalls Release 5.5.apk">
             BingWalls
         </a>
     </h1>
@@ -40,8 +40,9 @@ So, Bing Walls, the Bing wallpaper alternative app, automatically downloads wond
 ## Download
 
 <p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.devakash.bingwalls">
-       <img alt="Get From Play" width="200dp" src="https://cdn.jsdelivr.net/gh/steverichey/google-play-badge-svg@master/img/en_get.svg" />
+
+   <a href="https://play.google.com/store/apps/details?id=com.devakash.bingwalls">
+         <img alt="Qries" src="https://cdn.jsdelivr.net/gh/steverichey/google-play-badge-svg@master/img/en_get.svg" width=50% alt="Get IT ON GOOGLE PLAY">
       </a>
  </p>
 
