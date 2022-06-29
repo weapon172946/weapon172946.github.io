@@ -1,6 +1,6 @@
 <p>
     <h1 align="center">
-        <a href="./docs/bingwalls/bingwalls.html">
+        <a href="./docs/bingwalls/bingwalls">
             BingWalls
         </a>
     </h1>
