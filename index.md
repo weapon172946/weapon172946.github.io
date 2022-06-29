@@ -40,10 +40,7 @@ So, Bing Walls, the Bing wallpaper alternative app, automatically downloads wond
 ## Download
 
 <p align="center">
-
-   <a href="https://play.google.com/store/apps/details?id=com.devakash.bingwalls">
-         <img alt="Qries" src="https://cdn.jsdelivr.net/gh/steverichey/google-play-badge-svg@master/img/en_get.svg" width=50% alt="Get IT ON GOOGLE PLAY">
-      </a>
+      [<img alt="Get From Play" width="200dp" src="https://cdn.jsdelivr.net/gh/steverichey/google-play-badge-svg@master/img/en_get.svg" />](https://play.google.com/store/apps/details?id=com.devakash.bingwalls)
  </p>
 
 <p align="center">
