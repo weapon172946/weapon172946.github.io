@@ -1,6 +1,6 @@
 <p>
     <h1 align="center">
-        <a href="/bingwalls/bingwalls.md">
+        <a href="https://play.google.com/store/apps/details?id=com.devakash.bingwalls">
             BingWalls
         </a>
     </h1>
