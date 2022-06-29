@@ -8,8 +8,8 @@
 <p align="center">
     <a href="#about">About</a>
   • <a href="#features">Features</a>
-  • <a href="#download">Download</a>
-    <a href="#docs">Docs</a>
+  • <a href="#downloads">Downloads</a>
+  • <a href="#docs">Docs</a>
 </p>
 
 ## About
@@ -36,25 +36,25 @@ So, Bing Walls, the Bing wallpaper alternative app, automatically downloads wond
 * Daily Automatic Wallpaper Update.
 * Push Notifications so you never miss an awesome bing wallpaper.
 
-## Download
+## Downloads
 
-<p align="center">
+ <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.devakash.bingwalls">
        <img alt="Get From Play" width="200dp" src="https://cdn.jsdelivr.net/gh/steverichey/google-play-badge-svg@master/img/en_get.svg" />
       </a>
  </p>
 
-<p align="center">
+  <p align="center">
   OR
-</p>
-<p align="center">
+  </p>
+  <p align="center">
 
    <a href="./res/BingWalls Release 5.5.apk">>
         Download Latest APK File
       </a>
- </p>
+  </p>
 
- ## Docs
+## Docs
  
  * <a href="./terms"><u>Terms & Conditions</u></a>
  * <a href="./privacyPolicy"><u>Privacy Policy</u></a>
