@@ -8,7 +8,7 @@
 
 ## About
 Hi there, Welcome to Dev Space<br>
-This Space contains the released public projects that you can check out below.<br>
+This Space contains the released public projects that you can check out below.<br><br>
 For any query regarding the projects, you can drop an email to [Admin](mailto:akash@oyeakash.tech)
 
 
