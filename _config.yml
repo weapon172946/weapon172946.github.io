@@ -1,4 +1,20 @@
 theme: jekyll-theme-cayman
-name: Dev Akash
-title: null
-show_downloads: true
+name: Akash Dev Space
+title: Akash Dev Space
+description: Akash Dev Space
+show_downloads: false
+favicon: assets/logo.ico/favicon.ico
+use_logo: true
+logo: assets/logo.ico/ms-icon-310x310.png
+show_feedback: true
+feedback_email: akash@oyeakash.tech
+
+# inserts github link in top nav bar (recommended)
+github_button_location_top_navbar: false
+
+# inserts github link below page title
+github_button_location_below_title: false
+
+# inserts github link at bottom of page (least visible)
+github_button_location_page_bottom: false
+
