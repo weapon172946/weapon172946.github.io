@@ -8,4 +8,4 @@
 
 ## Project Links
 
-*<a href="/docs/bingwalls/Home"><u>BingWalls</u></a>
+* <a href="/docs/bingwalls/home"><u>BingWalls</u></a>

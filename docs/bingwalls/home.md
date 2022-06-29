@@ -55,5 +55,6 @@ So, Bing Walls, the Bing wallpaper alternative app, automatically downloads wond
  </p>
 
  ## Docs
- *<a href="./Terms"><u>Terms & Conditions</u></a>
-  *<a href="./PrivacyPolicy"><u>Privacy Policy</u></a>
+ 
+ * <a href="./terms"><u>Terms & Conditions</u></a>
+ * <a href="./privacyPolicy"><u>Privacy Policy</u></a>
