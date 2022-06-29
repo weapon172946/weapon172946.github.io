@@ -9,6 +9,7 @@
     <a href="#about">About</a>
   • <a href="#features">Features</a>
   • <a href="#download">Download</a>
+    <a href="#docs">Docs</a>
 </p>
 
 ## About
@@ -52,3 +53,7 @@ So, Bing Walls, the Bing wallpaper alternative app, automatically downloads wond
         Download Latest APK File
       </a>
  </p>
+
+ ## Docs
+ *<a href="./Terms"><u>Terms & Conditions</u></a>
+  *<a href="./PrivacyPolicy"><u>Privacy Policy</u></a>
