@@ -5,11 +5,13 @@
     </h1>
 </p>
 
-<h2 align="center">
-  <img align="middle" src="./assets/logo.png" width="20%" alt="Logo"/>
-  <br><br>
-  Hey, I'm Akash ;)
- </h2>
+<p align="center">
+<img align="middle" src="./assets/logo.png" width="20%" alt="Logo"/>
+</p>
+
+<p align="center">
+<h2>Hey, I'm Akash ;)</h2>
+</p>
 
 <p align="center">
     <a href="https://goo.gl/maps/Jpcw4dj7noGesmcB7" target="_blank">🏠India</a>
