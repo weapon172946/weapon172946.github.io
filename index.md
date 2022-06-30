@@ -4,8 +4,12 @@
         <br><br>
     </h1>
 </p>
-<img align="middle" src="./assets/logo.png" width="20%" alt="Logo"/>
-<h2 align="center"> Hey, I'm Akash ;)</h2>
+
+<h2 align="center">
+  <img align="middle" src="./assets/logo.png" width="20%" alt="Logo"/>
+  <br>
+  Hey, I'm Akash ;)
+ </h2>
 
 <p align="center">
     <a href="https://goo.gl/maps/Jpcw4dj7noGesmcB7" target="_blank">🏠India</a>
