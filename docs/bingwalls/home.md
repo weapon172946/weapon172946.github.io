@@ -6,7 +6,8 @@
 
 
 <p align="center">
-    <a href="#about">About</a>
+    <a href="https://weapon172946.github.io/">Home</a>
+  • <a href="#about">About</a>
   • <a href="#features">Features</a>
   • <a href="#downloads">Downloads</a>
   • <a href="#docs">Docs</a>
