@@ -36,6 +36,18 @@ So, Bing Walls, the Bing wallpaper alternative app, automatically downloads wond
 * Daily Automatic Wallpaper Update.
 * Push Notifications so you never miss an awesome bing wallpaper.
 
+
+## Screenshot
+<p align="center">
+
+<a href="https://postimg.cc/bDgY9grw" target="_blank"><img src="https://i.postimg.cc/bDgY9grw/SS2.png" alt="SS2"/></a>
+<a href="https://postimg.cc/CR8FQS5t" target="_blank"><img src="https://i.postimg.cc/CR8FQS5t/SS3.png" alt="SS3"/></a>
+<a href="https://postimg.cc/vckYhcYf" target="_blank"><img src="https://i.postimg.cc/vckYhcYf/SS4.png" alt="SS4"/></a>
+<a href="https://postimg.cc/xqj1TwpJ" target="_blank"><img src="https://i.postimg.cc/xqj1TwpJ/SS5.png" alt="SS5"/></a>
+<a href="https://postimg.cc/MfG6PBfb" target="_blank"><img src="https://i.postimg.cc/MfG6PBfb/SS6.png" alt="SS6"/></a>
+<a href="https://postimg.cc/c6D4KFPD" target="_blank"><img src="https://i.postimg.cc/c6D4KFPD/SS7.png" alt="SS7"/></a>
+
+</p
 ## Downloads
 
  <p align="center">
