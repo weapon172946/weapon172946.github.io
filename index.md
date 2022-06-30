@@ -1,10 +1,12 @@
-<!-- <p>
+<p>
     <h1 align="center">
         Akash Dev Space
+        <br><br>
+       <img src="/assests/logo.png" alt="Logo"/>
     </h1>
 </p>
 
-<br><br><br><br> -->
+<br><br><br><br>
 
 ## About
 Hi there, Welcome to Dev Space<br>
