@@ -47,7 +47,9 @@ So, Bing Walls, the Bing wallpaper alternative app, automatically downloads wond
 <a href="https://postimg.cc/MfG6PBfb" target="_blank"><img src="https://i.postimg.cc/MfG6PBfb/SS6.png" alt="SS6"/></a>
 <a href="https://postimg.cc/c6D4KFPD" target="_blank"><img src="https://i.postimg.cc/c6D4KFPD/SS7.png" alt="SS7"/></a>
 
-</p
+</p>
+
+
 ## Downloads
 
  <p align="center">
