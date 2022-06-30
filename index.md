@@ -2,12 +2,12 @@
     <h1 align="center">
         Akash WebSpace
         <br><br>
-       <img src="https://raw.githubusercontent.com/weapon172946/weapon172946.github.io/main/assets/logo.png" width="20%" alt="Logo"/>
+       <img src="./assets/logo.png" width="20%" alt="Logo"/>
     </h1>
 </p>
 
 <p align="center">
-    <a href="https://goo.gl/maps/Jpcw4dj7noGesmcB7" target="_blank">India</a>
+    <a href="https://goo.gl/maps/Jpcw4dj7noGesmcB7" target="_blank">🏠India</a>
   • <a href="https://github.com/weapon172946/" target="_blank">🔗Github</a>
   • <a href="https://www.linkedin.com/in/akash172946" target="_blank">🔗LinkedIn</a>
   • <a href="mailto:akash@oyeakash.tech" target="_blank">📧Email</a>
@@ -35,5 +35,5 @@
 
 
 ## About WebSpace
-This Space contains the released public projects that you can check out below.<br><br>
+This Space contains the released public projects that you can check out above.<br><br>
 For any query regarding the projects, you can drop an email to [Admin](mailto:akash@oyeakash.tech)
