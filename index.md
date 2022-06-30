@@ -2,10 +2,9 @@
     <h1 align="center">
         Akash WebSpace
         <br><br>
-       <img src="./assets/logo.png" width="20%" alt="Logo"/>
     </h1>
 </p>
-
+<img src="./assets/logo.png" width="20%" alt="Logo"/><br>
 <h2 align="center"> Hey, I'm Akash ;)</h2>
 
 <p align="center">
