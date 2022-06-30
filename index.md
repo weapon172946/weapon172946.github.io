@@ -3,9 +3,10 @@
         Akash WebSpace
         <br><br>
        <img src="./assets/logo.png" width="20%" alt="Logo"/>
-       
     </h1>
 </p>
+
+<h2 align="center"> Hey, I'm Akash ;)</h2>
 
 <p align="center">
     <a href="https://goo.gl/maps/Jpcw4dj7noGesmcB7" target="_blank">🏠India</a>
