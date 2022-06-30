@@ -2,9 +2,9 @@ theme: jekyll-theme-cayman
 name: Akash Dev Space
 title: Akash Dev Space
 show_downloads: false
-favicon: /assets/logo_small.png
+favicon: /favicon.ico
 use_logo: true
-logo: /assets/logo_small.png
+logo: /assets/logo.png
 show_feedback: true
 feedback_email: akash@oyeakash.tech
 
