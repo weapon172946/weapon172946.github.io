@@ -7,7 +7,7 @@
 
 <h2 align="center">
   <img align="middle" src="./assets/logo.png" width="20%" alt="Logo"/>
-  <br>
+  <br><br>
   Hey, I'm Akash ;)
  </h2>
 
@@ -40,5 +40,5 @@
 
 
 ## About WebSpace
-This Space contains the released public projects that you can check out above.<br><br>
+This Space contains the released public android apps that you can check out above.<br><br>
 For any query regarding the projects, you can drop an email to [Admin](mailto:akash@oyeakash.tech)
