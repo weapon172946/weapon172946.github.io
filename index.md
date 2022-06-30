@@ -2,7 +2,7 @@
     <h1 align="center">
         Akash Dev Space
         <br><br>
-       <img src="https://github.com/weapon172946/weapon172946.github.io/blob/main/assets/logo.png" width="20%" alt="Logo"/>
+       <img src="https://raw.githubusercontent.com/weapon172946/weapon172946.github.io/main/assets/logo.png" width="20%" alt="Logo"/>
     </h1>
 </p>
 
