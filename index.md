@@ -7,16 +7,16 @@
 </p>
 
 <p align="center">
-    <a href="https://goo.gl/maps/Jpcw4dj7noGesmcB7" target="_blank">🏠Punjab, India</a>
+    <a href="https://goo.gl/maps/Jpcw4dj7noGesmcB7" target="_blank">India</a>
   • <a href="https://github.com/weapon172946/" target="_blank">🔗Github</a>
   • <a href="https://www.linkedin.com/in/akash172946" target="_blank">🔗LinkedIn</a>
   • <a href="mailto:akash@oyeakash.tech" target="_blank">📧Email</a>
 </p>
 
-## About
-Hi there, Welcome to WebSpace<br>
-This Space contains the released public projects that you can check out below.<br><br>
-For any query regarding the projects, you can drop an email to [Admin](mailto:akash@oyeakash.tech)
+## Bio
+<p>Profession: Full Time Android App Developer<br>Proficient Languages: Kotlin &amp; Java<br>Projects: On-Demand &amp; E-commerce Apps</p>
+<p>Good with: Retrofit, Rest &amp; Soap API Integration, handling location-dependent apps, Social Integrations, Firebase, Custom Sockets, Video, Voice Chats, UI Implementations, Play Console, Room DB, etc.&nbsp;</p>
+<p>Other Skills Include SpringBoot Rest APIs, PostgreSQL & MYSQL Basics, Heroku Deployment, Github Pages, Version Control Management, Azure App Deployment, Azure Database Depolyment, MD &amp; HTML.</p>
 
 
 ## Pet Project Links
@@ -24,7 +24,7 @@ For any query regarding the projects, you can drop an email to [Admin](mailto:ak
 * <a href="/docs/bingwalls/home">BingWalls</a>
 
 
-## Collaborated Professional Portfolio
+## Fav Collaborated Professional Portfolio
 
 * [Mr Lavage](https://play.google.com/store/apps/details?id=com.mrlavage){:target="_blank"}
 * [Mr Lavage Driver](https://play.google.com/store/apps/details?id=com.lavagedriver){:target="_blank"}
@@ -32,3 +32,8 @@ For any query regarding the projects, you can drop an email to [Admin](mailto:ak
 * [Hair App](https://play.google.com/store/apps/details?id=com.application.hairapp){:target="_blank"}
 * [Get Me](https://play.google.com/store/apps/details?id=com.getme){:target="_blank"}
 * [Courier Market](https://play.google.com/store/apps/details?id=test.appcourier){:target="_blank"}
+
+
+## About WebSpace
+This Space contains the released public projects that you can check out below.<br><br>
+For any query regarding the projects, you can drop an email to [Admin](mailto:akash@oyeakash.tech)
