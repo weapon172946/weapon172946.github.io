@@ -4,7 +4,7 @@
         <br><br>
     </h1>
 </p>
-<img align="center" src="./assets/logo.png" width="20%" alt="Logo"/>
+<img align="middle" src="./assets/logo.png" width="20%" alt="Logo"/>
 <h2 align="center"> Hey, I'm Akash ;)</h2>
 
 <p align="center">
