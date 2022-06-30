@@ -1,6 +1,6 @@
 <p>
     <h1 align="center">
-        Akash Dev Space
+        Akash WebSpace
         <br><br>
        <img src="https://raw.githubusercontent.com/weapon172946/weapon172946.github.io/main/assets/logo.png" width="20%" alt="Logo"/>
     </h1>
@@ -14,14 +14,14 @@
 </p>
 
 ## About
-Hi there, Welcome to Dev Space<br>
+Hi there, Welcome to WebSpace<br>
 This Space contains the released public projects that you can check out below.<br><br>
 For any query regarding the projects, you can drop an email to [Admin](mailto:akash@oyeakash.tech)
 
 
 ## Pet Project Links
 
-* <a href="/docs/bingwalls/home"><u>BingWalls</u></a>
+* <a href="/docs/bingwalls/home">BingWalls</a>
 
 
 ## Collaborated Professional Portfolio
