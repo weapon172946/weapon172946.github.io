@@ -18,6 +18,7 @@
   • <a href="https://github.com/weapon172946/" target="_blank">🔗Github</a>
   • <a href="https://www.linkedin.com/in/akash172946" target="_blank">🔗LinkedIn</a>
   • <a href="mailto:akash@oyeakash.tech" target="_blank">📧Email</a>
+  • <a href="https://drive.google.com/file/d/1TknBEO8GKJrNRRrzNc9QwJkDK723Ed2l/view?usp=sharing" target="_blank">👨‍🎓Resume</a>
 </p>
 
 ## Bio
