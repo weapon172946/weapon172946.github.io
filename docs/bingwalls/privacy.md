@@ -1,4 +1,9 @@
-**Privacy Policy**
+<p>
+    <h1 align="center">
+            Privacy Policy - BingWalls
+    </h1>
+</p>
+
 
 OyeAkash built the BingWalls app as an Ad Supported app. This SERVICE is provided by OyeAkash at no cost and is intended for use as is.
 
