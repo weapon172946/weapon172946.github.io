@@ -1,3 +1,9 @@
+---
+name: BingWalls
+description: Android Wallpapaers
+title: Terms & Conditions
+---
+
 <p>
     <h1 align="center">
             Terms &amp; Conditions - BingWalls

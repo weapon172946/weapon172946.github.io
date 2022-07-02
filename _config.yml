@@ -1,5 +1,7 @@
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
+remote_theme: lewismiddleton/cayman-dark
 name: Akash WebSpace
+description: Minimal Portfolio
 title: Akash WebSpace
 show_downloads: false
 favicon: /favicon.ico

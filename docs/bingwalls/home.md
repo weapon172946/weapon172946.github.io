@@ -1,3 +1,9 @@
+---
+name: BingWalls
+description: Android Wallpapaers
+title: BingWalls
+---
+
 <p>
     <h1 align="center">
             BingWalls
