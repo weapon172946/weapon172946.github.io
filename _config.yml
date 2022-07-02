@@ -19,3 +19,7 @@ github_button_location_below_title: false
 # inserts github link at bottom of page (least visible)
 github_button_location_page_bottom: false
 
+
+gems:
+- jekyll-seo-tag
+
