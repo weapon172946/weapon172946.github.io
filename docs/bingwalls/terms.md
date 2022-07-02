@@ -1,6 +1,4 @@
 ---
-name: BingWalls
-description: Android Wallpapaers
 title: Terms & Conditions
 ---
 

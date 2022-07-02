@@ -1,3 +1,7 @@
+---
+title: Privacy Policy
+---
+
 <p>
     <h1 align="center">
             Privacy Policy - BingWalls
