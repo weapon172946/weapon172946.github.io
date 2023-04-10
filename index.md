@@ -16,7 +16,7 @@
 <p align="center">
     <a href="https://goo.gl/maps/Jpcw4dj7noGesmcB7" target="_blank">🏠India</a>
   • <a href="https://github.com/weapon172946/" target="_blank">🔗Github</a>
-  • <a href="mailto:akash@oyeakash.tech" target="_blank">📧Email</a>
+  • <a href="mailto:akash@foxraving.com" target="_blank">📧Email</a>
   • <a href="https://drive.google.com/file/d/1TknBEO8GKJrNRRrzNc9QwJkDK723Ed2l/view?usp=sharing" target="_blank">👨‍🎓Resume</a>
 </p>
 
@@ -43,4 +43,4 @@
 
 ## About WebSpace
 This Space contains the released public android apps that you can check out above.<br><br>
-For any query regarding the projects, you can drop an email to [Admin](mailto:akash@oyeakash.tech)
+For any query regarding the projects, you can drop an email to [Admin](mailto:akash@foxraving.com)
