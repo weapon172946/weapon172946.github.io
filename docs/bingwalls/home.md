@@ -70,7 +70,7 @@ So, Bing Walls, the Bing wallpaper alternative app, automatically downloads wond
   </p>
   <p align="center">
 
-   <a href="https://github.com/weapon172946/BingWallsFiles/releases/download/ReleaseV5.9/BingWalls_Official_Signed_v5.9.apk">>
+   <a href="https://github.com/weapon172946/BingWallsFiles/releases/download/ReleaseV6.3/BingWalls.6.3.Signed.Release.apk">>
         Download Latest APK File
       </a>
   </p>
