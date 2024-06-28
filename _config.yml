@@ -10,6 +10,9 @@ logo: /assets/logo.png
 show_feedback: true
 feedback_email: akash@foxraving.com
 
+baseurl: ""
+url: "https://main.dvw8rx6o8pcfo.amplifyapp.com"
+
 # inserts github link in top nav bar (recommended)
 github_button_location_top_navbar: false
 
