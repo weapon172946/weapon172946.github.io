@@ -1,7 +1,7 @@
 ---
 ---
 
-@import 'jekyll-theme-cayman';
+@import 'jekyll-theme-minimal';
 
 @import "{{ site.theme }}";
 
@@ -18,7 +18,7 @@ $dark-header-bg-color-secondary: hsl(25deg, 100%, 38%);
 $section-headings-color: hsl(150deg, 76%, 34%);
 $body-link-color: hsl(210deg, 72%, 42%);
 
-@import "{{ site.theme }}";
+// @import "{{ site.theme }}";
 
 
 header {

@@ -1,50 +1,53 @@
 <meta
-  charset="utf-8"
+        charset="utf-8"
 />
-
 
 
 <meta
-  name="viewport"
-  content="width=device-width, initial-scale=1.0"
+        content="width=device-width, initial-scale=1.0"
+        name="viewport"
 />
 
 <script>
-  document.documentElement.className =
-    document.documentElement.className.replace(
-      /\bno-js\b/g,
-      ""
-    ) +
-    " js ";
+    document.documentElement.className =
+      document.documentElement.className.replace(
+        /\bno-js\b/g,
+        ""
+      ) +
+      " js ";
 </script>
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-XQPQCD736L"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
 
-  gtag('config', 'G-XQPQCD736L');
+    gtag('config', 'G-XQPQCD736L');
 </script>
 
 <a class="site-title" href="{{ site.baseurl }}/">
-  {% if site.logo %}
-    <img src="/assets/logo.png" class="site-logo" >
+    {% if site.logo %}
+    <img class="site-logo" src="/assets/logo.png">
 
 
-<!-- For all browsers -->
+    <!-- For all browsers -->
+    <link
+            href="{{ '/assets/css/main.css' | relative_url }}"
+            rel="stylesheet"
+    />
 
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-<link rel="manifest" href="/site.webmanifest">
-<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
-<meta name="msapplication-TileColor" content="#da532c">
-<meta name="theme-color" content="#ffffff">
+    <link href="/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180">
+    <link href="/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png">
+    <link href="/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png">
+    <link href="/site.webmanifest" rel="manifest">
+    <link color="#5bbad5" href="/safari-pinned-tab.svg" rel="mask-icon">
+    <meta content="#da532c" name="msapplication-TileColor">
+    <meta content="#ffffff" name="theme-color">
 
 
-{%
+    {%
     if
     site.head_scripts
     %}
