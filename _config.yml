@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 #remote_theme: raviriley/agency-jekyll-theme
 name: Akash WebSpace
 description: Minimal Portfolio
@@ -21,15 +21,15 @@ github_button_location_page_bottom: false
 
 google_analytics: G-XQPQCD736L
 
-#plugins:
-#  - jekyll-sitemap
-#  - jekyll-seo-tag
-#  - jekyll-feed
-#  - jekyll-paginate
-#  - jekyll-archives
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-archives
 #  - jekyll-remote-theme
 
-#markdown: kramdown
+markdown: kramdown
 #theme: minima
 #exclude:
 #  - Gemfile
