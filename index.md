@@ -3,39 +3,33 @@ name: FoxRaving
 description: Akash WebSpace
 title: FoxRaving
 ---
-<p>
-    <h1 align="center">
-        Akash WebSpace
-        <br><br>
-    </h1>
+
+
+<p align="center">
+<img align="middle" src="./assets/fox_circle.png" width="50%" alt="Logo"/>
 </p>
 
 <p align="center">
-<img align="middle" src="./assets/logo.png" width="20%" alt="Logo"/>
+<h2 align="center">FoxRaving</h2>
+<h3 align="center">Where Quality Meets Innovation</h3>
 </p>
 
-<p align="center">
-<h2 align="center">Hey, I'm Akash ;)</h2>
-</p>
+### Table of Contents
 
-<p align="center">
-    <a href="https://goo.gl/maps/Jpcw4dj7noGesmcB7" target="_blank">🏠India</a>
-  • <a href="https://www.linkedin.com/in/akash172946/" target="_blank">👋LinkedIn</a>
-  • <a href="https://github.com/weapon172946/" target="_blank">🔗Github</a>
-  • <a href="mailto:akash@foxraving.com" target="_blank">📧Email</a>
-  • <a href="https://drive.google.com/file/d/1TknBEO8GKJrNRRrzNc9QwJkDK723Ed2l/view?usp=sharing" target="_blank">👨‍🎓Resume</a>
-</p>
+- [About Us](#about-us)
+- [Our Work Ethics](#our-work-ethics)
+- [What We Offer](#what-we-offer)
+- [Meet the Team](#meet-the-team)
+- [Featured Projects](#featured-projects)
+- [Why Choose Us?](#why-choose-us)
+- [Let’s Build Something Great Together](#lets-build-something-great-together)
 
-## Bio
-<p>Profession: Full Time Android App Developer<br>Proficient Languages: Kotlin &amp; Java<br>Projects: On-Demand &amp; E-commerce Apps</p>
-<p>Good with: Retrofit, Rest &amp; Soap API Integration, handling location-dependent apps, Social Integrations, Firebase, Custom Sockets, Video, Voice Chats, UI Implementations, Play Console, Room DB, etc.&nbsp;</p>
-<p>Other Skills Include SpringBoot Rest APIs, PostgreSQL & MYSQL Basics, Heroku Deployment, Github Pages, Domain Management, SMTP Integeration, Version Control Management, Azure App Deployment, Azure Database Depolyment, MD &amp; HTML.</p>
+## About Us
 
+<p>At FoxRaving, we’re passionate about crafting digital experiences that stand out. As a small but mighty team of experienced developers, we specialize in creating exceptional websites and mobile applications that combine innovative design with robust functionality. We believe that technology should not only work seamlessly but also reflect the unique identity of every client we serve.
 
-## Pet Project Links
-
-* <a href="/docs/bingwalls/home">BingWalls</a>
-* <a href="https://taxpod.ca">TaxPod</a>
+Our ethos revolves around quality over quantity, ensuring every project we undertake is completed with meticulous
+attention to detail and a commitment to excellence.</p>
 
 
 <!-- ## Fav Collaborated Professional Portfolio
@@ -47,7 +41,64 @@ title: FoxRaving
 * [Get Me](https://play.google.com/store/apps/details?id=com.getme){:target="_blank"}
 * [Courier Market](https://play.google.com/store/apps/details?id=test.appcourier){:target="_blank"} -->
 
+## Our Work Ethics
 
-## About WebSpace
-This Space contains the released public android apps that you can check out above.<br><br>
-For any query regarding the projects, you can drop an email to [Admin](mailto:akash@foxraving.com)
+We value transparency, collaboration, and integrity in every interaction. Here’s what you can expect when working with
+FoxRaving:
+
+Client-Centric Approach: Your vision is our guide. We work closely with you to understand your needs and deliver
+solutions that exceed expectations.
+
+Commitment to Quality: We don’t cut corners. Every line of code, every design element, and every feature is crafted to
+perfection.
+
+Continuous Improvement: Technology evolves, and so do we. Our team is dedicated to staying ahead of trends and
+continuously enhancing our skill set.
+
+Timely Delivery: We respect your time and ensure that every project is delivered on schedule without compromising
+quality.
+
+## What We Offer
+
+<h3>Web Development</h3>
+
+From responsive websites to dynamic web applications, we bring your ideas to life with cutting-edge technologies and
+user-friendly designs.
+
+<h3>Mobile App Development</h3>
+
+Whether it’s iOS, Android, or cross-platform solutions, our team delivers mobile apps that are intuitive, secure, and
+scalable.
+
+## Meet the Team
+
+Our team may be small, but we pack a punch when it comes to experience and expertise. With backgrounds in software
+development, UI/UX design, and project management, we’ve worked on diverse projects for clients across industries. This
+gives us the flexibility and insight to tackle any challenge with confidence.
+
+## Featured Projects
+
+* <a href="/docs/bingwalls/home">BingWalls</a>
+    <p>
+   The Bing wallpaper alternative app, automatically downloads wonderful backgrounds to keep your home screen fresh, unique and special.
+
+</p>
+
+* <a href="https://taxpod.ca">TaxPod</a>
+
+<p>
+Trusted By 1000+ Applicants,
+Expert Tax Services For Individuals and Businesses
+Maximise your refunds and minimise stress with TaxPod
+</p>
+
+## Why Choose Us?
+
+Choosing FoxRaving means opting for a partner who values your success as much as you do. We’re not just developers;
+we’re collaborators who invest our skills and creativity into your vision. Our track record of delivering high-quality
+projects speaks for itself.
+
+## Let’s Build Something Great Together
+
+Ready to turn your ideas into reality? Get in touch with us today, and let’s create something amazing.
+[Contact Us](mailto:akash@foxraving.com)
