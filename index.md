@@ -7,11 +7,8 @@ title: FoxRaving
 
 <p align="center">
 <img align="middle" src="./assets/fox_circle.png" width="20%" alt="Logo"/>
-</p>
-
-<p align="center">
 <h2 align="center">FoxRaving</h2>
-<h3 align="center">Where Quality Meets Innovation</h3>
+<h4 align="center">Where Quality Meets Innovation</h4>
 </p>
 
 ### Table of Contents
@@ -85,6 +82,7 @@ gives us the flexibility and insight to tackle any challenge with confidence.
 
 
 - <a href="https://taxpod.ca">TaxPod</a>
+
   Trusted By 1000+ Applicants,
   Expert Tax Services For Individuals and Businesses
   Maximise your refunds and minimise stress with TaxPod
