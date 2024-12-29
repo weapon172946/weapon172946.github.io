@@ -6,7 +6,7 @@ title: FoxRaving
 
 
 <p align="center">
-<img align="middle" src="./assets/fox_circle.png" width="50%" alt="Logo"/>
+<img align="middle" src="./assets/fox_circle.png" width="20%" alt="Logo"/>
 </p>
 
 <p align="center">
@@ -78,19 +78,16 @@ gives us the flexibility and insight to tackle any challenge with confidence.
 
 ## Featured Projects
 
-* <a href="/docs/bingwalls/home">BingWalls</a>
-    <p>
-   The Bing wallpaper alternative app, automatically downloads wonderful backgrounds to keep your home screen fresh, unique and special.
+- <a href="/docs/bingwalls/home">BingWalls</a>
 
-</p>
+  The Bing wallpaper alternative app, automatically downloads wonderful backgrounds to keep your home screen fresh,
+  unique and special.
 
-* <a href="https://taxpod.ca">TaxPod</a>
 
-<p>
-Trusted By 1000+ Applicants,
-Expert Tax Services For Individuals and Businesses
-Maximise your refunds and minimise stress with TaxPod
-</p>
+- <a href="https://taxpod.ca">TaxPod</a>
+  Trusted By 1000+ Applicants,
+  Expert Tax Services For Individuals and Businesses
+  Maximise your refunds and minimise stress with TaxPod
 
 ## Why Choose Us?
 
