@@ -75,24 +75,24 @@ gives us the flexibility and insight to tackle any challenge with confidence.
 
 ## Featured Projects
 
-- <a href="/docs/bingwalls/home">BingWalls</a>
-
-  The Bing wallpaper alternative app, automatically downloads wonderful backgrounds to keep your home screen fresh,
-  unique and special.
-
-
-- <a href="https://taxpod.ca">TaxPod</a>
+- <a href="https://taxpod.ca">TaxPod - Web, iOS, Android</a>
 
   Trusted By 1000+ Applicants,
   Expert Tax Services For Individuals and Businesses
   Maximise your refunds and minimise stress with TaxPod
 
 
-- <a href="https://apps.apple.com/in/app/popil-tunes/id1665703854">Popil Tunes iOS</a>
-- <a href="https://play.google.com/store/apps/details?id=com.popil.tunes">Popil Tunes Android</a>
+- <a href="https://apps.apple.com/in/app/popil-tunes/id1665703854">Popil Tunes - iOS</a>
+- <a href="https://play.google.com/store/apps/details?id=com.popil.tunes">Popil Tunes - Android</a>
 
   Popil tunes consists of different arrays of interest and opportunities for both creators and users like songs,
   podcasts, audio books and much more.
+
+
+- <a href="/docs/bingwalls/home">BingWalls - Android</a>
+
+  The Bing wallpaper alternative app, automatically downloads wonderful backgrounds to keep your home screen fresh,
+  unique and special.
 
 ## Why Choose Us?
 
