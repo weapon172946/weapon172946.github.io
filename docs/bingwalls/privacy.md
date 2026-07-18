@@ -2,75 +2,124 @@
 title: Privacy Policy
 ---
 
-<p>
-    <h1 align="center">
-            Privacy Policy - BingWalls
-    </h1>
-</p>
+# Privacy Policy - Daily Walls
 
+**Effective date:** 18 July 2026  
+**App package:** `com.devakash.bingwalls`  
+**Developer / Publisher:** Akash Dev  
+**Website:** https://www.foxraving.com  
+**Support:** [akash@foxraving.com](mailto:akash@foxraving.com)
 
-FoxRaving built the BingWalls app as an Ad Supported app. This SERVICE is provided by FoxRaving at no cost and is intended for use as is.
+This Privacy Policy explains how Daily Walls ("the App") collects, uses, and shares information when you use the Android app published on Google Play.
 
-This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
+## 1. Identity and scope
 
-If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
+This policy applies to:
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at BingWalls unless otherwise defined in this Privacy Policy.
+- **App name:** Daily Walls (previously BingWalls)
+- **Google Play package:** `com.devakash.bingwalls`
+- **Developer / legal publisher name used by this app:** Akash Dev
 
-**Information Collection and Use**
+## 2. Information we collect
 
-For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information. The information that we request will be retained by us and used as described in this privacy policy.
+We collect only the information needed to provide wallpaper features, app reliability, notifications, ads, and optional purchase restore.
 
-The app does use third-party services that may collect information used to identify you.
+### A) Information collected automatically
 
-Link to the privacy policy of third-party service providers used by the app
+1. **Device and app diagnostics** (via Firebase Crashlytics), such as crash stack traces, app/device state, OS version, and technical diagnostics.
+2. **Usage analytics events** (via Firebase Analytics), such as app opens, wallpaper update events, widget interactions, and notification event metadata.
+3. **Push identifiers and metadata** (via Firebase Cloud Messaging), including FCM registration token and data-message fields required to process update/notification actions.
+4. **Advertising-related data** (via Google Mobile Ads SDK/AdMob), which may include device identifiers and ad interaction data as processed by Google.
+5. **Anonymous Firebase auth identifier** used internally to access Firebase-backed app features.
 
-*   [Google Play Services](https://www.google.com/policies/privacy/)
-*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
-*   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
-*   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
+### B) Information you provide
 
-**Log Data**
+1. **Google account email address (optional):** requested only when you choose purchase/restore flows in the in-app purchase section.
+2. **Purchase-related data:** purchase token, order ID, product ID, quantity, purchase time, and acknowledgement/consumption status used to validate and restore ad-removal benefits.
 
-We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
+### C) Data stored locally on your device
 
-**Cookies**
+The app stores settings and operational values locally (SharedPreferences/Room), such as selected region, wallpaper preferences, app behavior settings, cached content metadata, and purchase state flags.
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+## 3. Why we use this information
 
-This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+We use information to:
 
-**Service Providers**
+1. deliver wallpaper and widget functionality,
+2. fetch region/content configuration and app constants,
+3. send and process optional push notifications,
+4. improve stability and performance,
+5. show ads in the ad-supported version,
+6. process in-app purchase fulfillment and restore previous purchases.
 
-We may employ third-party companies and individuals due to the following reasons:
+## 4. Third-party services used
 
-*   To facilitate our Service;
-*   To provide the Service on our behalf;
-*   To perform Service-related services; or
-*   To assist us in analyzing how our Service is used.
+Daily Walls integrates third-party SDKs/services including:
 
-We want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+1. **Google Firebase** (Analytics, Crashlytics, Cloud Messaging, Auth, Realtime Database, Remote Config)
+2. **Google Mobile Ads (AdMob)**
+3. **Google Play Billing**
+4. **Google Sign-In** (used for purchase/restore email access)
 
-**Security**
+These providers may process data according to their own privacy policies and terms. We recommend reviewing Google’s privacy documentation for Firebase, AdMob, Google Play Billing, and Google Sign-In.
 
-We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+- Google Privacy Policy: https://policies.google.com/privacy
+- Firebase Privacy and Security: https://firebase.google.com/support/privacy
+- AdMob Privacy: https://support.google.com/admob/answer/6128543
+- Google Play Billing Terms: https://play.google.com/about/play-terms/
 
-**Links to Other Sites**
+## 5. Data sharing
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+We do **not** sell personal information.
 
-**Children’s Privacy**
+We may share data with service providers strictly to operate the app (for example, Google services above and purchase backend endpoints used for purchase validation/restore).
+We may also disclose information where required by applicable law, regulation, legal process, or to protect against abuse, fraud, or security threats.
 
-These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13 years of age. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do the necessary actions.
+## 6. Permissions and what they are used for
 
-**Changes to This Privacy Policy**
+The app may request Android permissions including internet/network access, notifications, storage/media access (legacy Android versions), wake/boot scheduling support, wallpaper setting, and battery-optimization related behavior for reliable wallpaper updates. These permissions are used only for app features described in this policy.
 
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
+## 7. Your controls and choices
 
-This policy is effective as of 2022-07-01
+You can:
 
-**Contact Us**
+1. disable or limit notifications in app/device settings,
+2. control app permissions in Android settings,
+3. uninstall the app to stop all further collection by the app,
+4. contact us to request support regarding your data.
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at akash@foxraving.com .
+Some analytics/crash behavior may be controlled by in-app settings/build configuration where available.
 
-This privacy policy page was created at [privacypolicytemplate.net](https://privacypolicytemplate.net) and modified/generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
+## 8. Data retention
+
+Retention periods vary by data type and provider:
+
+1. local app data remains on your device until you clear app data or uninstall,
+2. diagnostics/analytics and messaging-related records are retained according to Google/Firebase policies,
+3. purchase records needed for restore/verification are retained only as long as required for billing support, fraud prevention, and legal/accounting obligations.
+
+## 9. Security
+
+We use reasonable technical and organizational measures to protect data. However, no method of transmission or storage is completely secure.
+
+## 10. Children’s privacy
+
+Daily Walls does not intentionally collect sensitive personal data from users.
+
+The app is designed for a general audience and is intended to display appropriate wallpaper and utility content. If you believe any content or data handling requires review, please contact us and we will investigate and take appropriate action.
+
+## 11. International transfers
+
+Service providers we use may process data in countries outside your location. By using the app, you understand that your information may be transferred and processed in other jurisdictions.
+
+## 12. Changes to this policy
+
+We may update this policy from time to time. Updates will be posted at the privacy policy URL used by the app and become effective on the date shown at the top of this policy.
+
+## 13. Contact
+
+For privacy questions or requests:
+
+- **Developer:** Akash Dev
+- **Email:** [akash@foxraving.com](mailto:akash@foxraving.com)
+- **Website:** https://www.foxraving.com
