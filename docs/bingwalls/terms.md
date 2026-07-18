@@ -2,45 +2,117 @@
 title: Terms & Conditions
 ---
 
-<p>
-    <h1 align="center">
-            Terms &amp; Conditions - BingWalls
-    </h1>
-</p>
+# Terms & Conditions - Daily Walls
 
-By downloading or using the app, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the app. You’re not allowed to copy or modify the app, any part of the app, or our trademarks in any way. You’re not allowed to attempt to extract the source code of the app, and you also shouldn’t try to translate the app into other languages or make derivative versions. The app itself, and all the trademarks, copyright, database rights, and other intellectual property rights related to it, still belong to FoxRaving.
+**Effective date:** 18 July 2026  
+**App package:** `com.devakash.bingwalls`  
+**Developer / Publisher:** Akash Dev  
+**Website:** https://www.foxraving.com  
+**Support:** [akash@foxraving.com](mailto:akash@foxraving.com)
 
-FoxRaving is committed to ensuring that the app is as useful and efficient as possible. For that reason, we reserve the right to make changes to the app or to charge for its services, at any time and for any reason. We will never charge you for the app or its services without making it very clear to you exactly what you’re paying for.
+These Terms & Conditions ("Terms") govern your use of Daily Walls (previously BingWalls) on Android. By downloading, installing, or using the app, you agree to these Terms.
 
-The BingWalls app stores and processes personal data that you have provided to us, to provide our Service. It’s your responsibility to keep your phone and access to the app secure. We therefore recommend that you do not jailbreak or root your phone, which is the process of removing software restrictions and limitations imposed by the official operating system of your device. It could make your phone vulnerable to malware/viruses/malicious programs, compromise your phone’s security features and it could mean that the BingWalls app won’t work properly or at all.
+## 1. App identity and service
 
-The app does use third-party services that declare their Terms and Conditions.
+Daily Walls is a wallpaper utility app that fetches and displays wallpaper content and related metadata through app and third-party services. The app may be ad-supported and may offer optional in-app purchases.
 
-Link to Terms and Conditions of third-party service providers used by the app
+## 2. License to use
 
-*   [Google Play Services](https://policies.google.com/terms)
-*   [AdMob](https://developers.google.com/admob/terms)
-*   [Google Analytics for Firebase](https://firebase.google.com/terms/analytics)
-*   [Firebase Crashlytics](https://firebase.google.com/terms/crashlytics)
+Subject to these Terms, you are granted a limited, non-exclusive, non-transferable, revocable license to use the app for personal, non-commercial use.
 
-You should be aware that there are certain things that FoxRaving will not take responsibility for. Certain functions of the app will require the app to have an active internet connection. The connection can be Wi-Fi or provided by your mobile network provider, but FoxRaving cannot take responsibility for the app not working at full functionality if you don’t have access to Wi-Fi, and you don’t have any of your data allowance left.
+You may not:
 
-If you’re using the app outside of an area with Wi-Fi, you should remember that the terms of the agreement with your mobile network provider will still apply. As a result, you may be charged by your mobile provider for the cost of data for the duration of the connection while accessing the app, or other third-party charges. In using the app, you’re accepting responsibility for any such charges, including roaming data charges if you use the app outside of your home territory (i.e. region or country) without turning off data roaming. If you are not the bill payer for the device on which you’re using the app, please be aware that we assume that you have received permission from the bill payer for using the app.
+1. copy, modify, or redistribute the app except as permitted by law,
+2. reverse engineer, decompile, or attempt to extract source code (except where legally allowed),
+3. use the app in a way that harms the service, other users, or infrastructure.
 
-Along the same lines, FoxRaving cannot always take responsibility for the way you use the app i.e. You need to make sure that your device stays charged – if it runs out of battery and you can’t turn it on to avail the Service, FoxRaving cannot accept responsibility.
+## 3. Content and intellectual property
 
-With respect to FoxRaving's responsibility for your use of the app, when you’re using the app, it’s important to bear in mind that although we endeavor to ensure that it is updated and correct at all times, we do rely on third parties to provide information to us so that we can make it available to you. FoxRaving accepts no liability for any loss, direct or indirect, you experience as a result of relying wholly on this functionality of the app.
+The app may display wallpaper images and metadata sourced from third parties (including Bing and app backend services). Rights in such content remain with their respective owners.
 
-At some point, we may wish to update the app. The app is currently available on Android – the requirements for the system(and for any additional systems we decide to extend the availability of the app to) may change, and you’ll need to download the updates if you want to keep using the app. FoxRaving does not promise that it will always update the app so that it is relevant to you and/or works with the Android version that you have installed on your device. However, you promise to always accept updates to the application when offered to you, We may also wish to stop providing the app, and may terminate use of it at any time without giving notice of termination to you. Unless we tell you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must stop using the app, and (if needed) delete it from your device.
+Your use of content through the app does not transfer ownership rights to you.
 
-**Changes to This Terms and Conditions**
+## 4. Accounts, authentication, purchases, and refunds
 
-We may update our Terms and Conditions from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Terms and Conditions on this page.
+Some features (such as restore or purchase validation) may require sign-in and/or billing data.
 
-These terms and conditions are effective as of 2022-07-01
+In-app purchases are billed and processed by Google Play Billing and are subject to Google Play terms, billing rules, and refund policies. We do not directly process card payments for in-app purchases made through Google Play.
 
-**Contact Us**
+Refunds, cancellations, and chargebacks for Google Play purchases are handled according to Google Play policies and Google’s billing support process. Purchase status, entitlement, and restoration may depend on third-party platform records and backend validation.
 
-If you have any questions or suggestions about our Terms and Conditions, do not hesitate to contact us at akash@foxraving.com .
+## 5. Ads and third-party services
 
-This Terms and Conditions page was generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
+The app integrates third-party services (including Firebase services, AdMob, Google Sign-In, and Google Play Billing). Your use of those integrations is also subject to the relevant third-party terms and policies.
+
+- Google Terms: https://policies.google.com/terms
+- Google Play Terms: https://play.google.com/about/play-terms/
+- Firebase Terms: https://firebase.google.com/terms
+- AdMob Terms: https://developers.google.com/admob/terms
+
+## 6. Connectivity and device responsibilities
+
+Certain features require internet access. You are responsible for your network/data charges, roaming charges, and device conditions (including power, compatibility, and system settings) required for app functionality.
+
+## 7. Availability and changes
+
+We may update, modify, suspend, or discontinue features (or the app itself) at any time, including for maintenance, security, legal, or product reasons.
+
+We may also update these Terms from time to time. Updated Terms become effective on the date shown at the top of this page.
+
+## 8. Acceptable use and restrictions
+
+You agree not to use the app for unlawful, abusive, fraudulent, or security-harming activity, including attempts to interfere with app operation, backend services, notifications, or billing flows.
+
+## 9. Disclaimers
+
+The app is provided on an "AS IS" and "AS AVAILABLE" basis to the extent permitted by applicable law. To the fullest extent permitted under applicable law, we disclaim all warranties and conditions, whether express, implied, or statutory, including implied warranties of merchantability, fitness for a particular purpose, title, and non-infringement.
+
+We do not guarantee uninterrupted availability, error-free operation, or that all content will always be accurate, complete, or current.
+
+## 10. Limitation of liability
+
+To the maximum extent permitted by law, Akash Dev will not be liable for indirect, incidental, special, consequential, exemplary, or punitive damages, or for loss of data, revenue, profits, or goodwill arising from use of (or inability to use) the app.
+
+Nothing in these Terms excludes liability that cannot be excluded under applicable law.
+
+## 11. Termination
+
+These Terms remain in effect until terminated. We may suspend or terminate access to the app if you violate these Terms or if required for legal, security, or operational reasons.
+
+You may stop using the app at any time by uninstalling it.
+
+On termination, your right to use the app ends immediately. Provisions that by nature should survive termination (including intellectual property, disclaimers, limitation of liability, indemnity, and dispute resolution/governing law) will continue to apply.
+
+## 12. Indemnity
+
+You agree to defend, indemnify, and hold harmless Akash Dev from and against claims, liabilities, damages, losses, and expenses (including reasonable legal fees) arising out of or related to your misuse of the app, your violation of these Terms, or your violation of any law or third-party rights.
+
+## 13. Copyright and IP notice process
+
+If you believe content accessible through the app infringes your copyright or other intellectual property rights, please send a notice with:
+
+1. your full name and contact information,
+2. identification of the work/right claimed to be infringed,
+3. sufficient details/URL/screenshot to identify the allegedly infringing material,
+4. a statement of good-faith belief that the use is unauthorized,
+5. a statement that the information in the notice is accurate.
+
+Send notices to: [akash@foxraving.com](mailto:akash@foxraving.com)
+
+We may remove or restrict access to reported material where appropriate and as required by applicable law.
+
+## 14. Governing law and dispute resolution (India)
+
+These Terms are governed by the laws of India.
+
+If a dispute arises, parties will first attempt a good-faith resolution by written notice. If unresolved within 30 days, the dispute will be referred to arbitration under the Arbitration and Conciliation Act, 1996. The seat and venue of arbitration will be Patiala, Punjab, India. The arbitration will be conducted in English by a sole arbitrator.
+
+Subject to the arbitration clause and applicable law, courts at Patiala, Punjab, India will have jurisdiction for interim relief, enforcement, or matters that cannot be arbitrated.
+
+## 15. Contact
+
+If you have questions about these Terms:
+
+- **Developer:** Akash Dev
+- **Email:** [akash@foxraving.com](mailto:akash@foxraving.com)
+- **Website:** https://www.foxraving.com
